@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>My New Hugo Site</title>
+    <link>https://next-2-you.github.io/</link>
+    <description>Recent content on My New Hugo Site</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 24 Aug 2022 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://next-2-you.github.io/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>My First Post</title>
+      <link>https://next-2-you.github.io/blog/my-first-post/</link>
+      <pubDate>Thu, 25 Aug 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://next-2-you.github.io/blog/my-first-post/</guid>
+      <description>Introduction This is bold text, and this is emphasized text.
+Visit the Hugo website!</description>
+    </item>
+    
+    <item>
+      <title>About</title>
+      <link>https://next-2-you.github.io/about/</link>
+      <pubDate>Wed, 24 Aug 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://next-2-you.github.io/about/</guid>
+      <description>baseURL = &amp;#39;http://example.org/&amp;#39; languageCode = &amp;#39;en-us&amp;#39; title = &amp;#39;Red Rose&amp;#39; PygmentsCodeFences = true PygmentsStyle = &amp;#34;solarized-dark256&amp;#34; pluralizelisttitles = &amp;#34;false&amp;#34; paginate = 18 disableHugoGeneratorInject = true [params] ava = &amp;#34;/img/mawar.png&amp;#34; The Source Code of this Theme Available in GitHub.
+Written in Go, Hugo is an open source static site generator available under the Apache Licence 2.0. Hugo supports TOML, YAML and JSON data file types, Markdown and HTML content files and uses shortcodes to add rich content.</description>
+    </item>
+    
+    <item>
+      <title>Contact</title>
+      <link>https://next-2-you.github.io/contact/</link>
+      <pubDate>Wed, 24 Aug 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://next-2-you.github.io/contact/</guid>
+      <description>Mail me : rose@example.com</description>
+    </item>
+    
+    <item>
+      <title>Red Rose</title>
+      <link>https://next-2-you.github.io/blog/mawar/</link>
+      <pubDate>Wed, 24 Aug 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://next-2-you.github.io/blog/mawar/</guid>
+      <description>A rose is either a woody perennial flowering plant of the genus Rosa, in the family Rosaceae, or the flower it bears.
+There are over three hundred species and tens of thousands of cultivars.They form a group of plants that can be erect shrubs, climbing, or trailing, with stems that are often armed with sharp prickles.
+Their flowers vary in size and shape and are usually large and showy, in colours ranging from white through yellows and reds.</description>
+    </item>
+    
+    <item>
+      <title>Red Rose</title>
+      <link>https://next-2-you.github.io/blog/rose/</link>
+      <pubDate>Wed, 24 Aug 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://next-2-you.github.io/blog/rose/</guid>
+      <description>A rose is either a woody perennial flowering plant of the genus Rosa, in the family Rosaceae, or the flower it bears.
+There are over three hundred species and tens of thousands of cultivars.They form a group of plants that can be erect shrubs, climbing, or trailing, with stems that are often armed with sharp prickles.
+Their flowers vary in size and shape and are usually large and showy, in colours ranging from white through yellows and reds.</description>
+    </item>
+    
+  </channel>
+</rss>
